@@ -1,0 +1,10 @@
+E:\VS2022\repos\Сапёр\Сапёр2\bin\Debug\Сапёр2.exe.config
+E:\VS2022\repos\Сапёр\Сапёр2\bin\Debug\Сапёр2.exe
+E:\VS2022\repos\Сапёр\Сапёр2\bin\Debug\Сапёр2.pdb
+E:\VS2022\repos\Сапёр\Сапёр2\obj\Debug\Сапёр2.csproj.AssemblyReference.cache
+E:\VS2022\repos\Сапёр\Сапёр2\obj\Debug\Сапёр2.Properties.Resources.resources
+E:\VS2022\repos\Сапёр\Сапёр2\obj\Debug\Сапёр2.csproj.GenerateResource.cache
+E:\VS2022\repos\Сапёр\Сапёр2\obj\Debug\Сапёр2.csproj.CoreCompileInputs.cache
+E:\VS2022\repos\Сапёр\Сапёр2\obj\Debug\Сапёр2.exe
+E:\VS2022\repos\Сапёр\Сапёр2\obj\Debug\Сапёр2.pdb
+E:\VS2022\repos\Сапёр\Сапёр2\obj\Debug\Сапёр2.Form1.resources
